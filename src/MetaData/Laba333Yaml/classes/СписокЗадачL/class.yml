@@ -1,0 +1,12 @@
+name: СписокЗадачL
+stereotype: «listform»
+description: Список задач
+caption: Список задач
+formViews:
+  - name: listview
+    viewName: СписокЗадачL
+    viewClassName: СписокЗадач
+    dataObjectTypes:
+      - className: СписокЗадач
+        newContainerName: СписокЗадачE
+        editContainerName: СписокЗадачE

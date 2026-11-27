@@ -1,0 +1,5 @@
+startClassName: Задача
+startMultiplicity: 1
+endClassName: СписокЗадач
+endMultiplicity: '*'
+storage: Задача

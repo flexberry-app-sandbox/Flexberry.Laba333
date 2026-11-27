@@ -1,0 +1,8 @@
+name: ЗадачаE
+stereotype: «editform»
+description: Задача
+caption: Задача
+formViews:
+  - name: editview
+    viewName: ЗадачаE
+    viewClassName: Задача

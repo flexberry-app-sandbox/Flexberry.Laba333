@@ -1,0 +1,12 @@
+name: ЗадачаL
+stereotype: «listform»
+description: Задача
+caption: Задача
+formViews:
+  - name: listview
+    viewName: ЗадачаL
+    viewClassName: Задача
+    dataObjectTypes:
+      - className: Задача
+        newContainerName: ЗадачаE
+        editContainerName: ЗадачаE

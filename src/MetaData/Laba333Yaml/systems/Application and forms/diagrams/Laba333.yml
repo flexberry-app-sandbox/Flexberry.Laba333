@@ -1,0 +1,23 @@
+diagramType: CAD
+name: Laba333
+primitives:
+  - type: CADClass
+    caseName: ЗадачаE
+    position: 150, 210
+    font: DejaVu Sans 9pt
+  - type: CADClass
+    caseName: ЗадачаL
+    position: 450, 210
+    font: DejaVu Sans 9pt
+  - type: CADClass
+    caseName: СписокЗадачE
+    position: 150, 270
+    font: DejaVu Sans 9pt
+  - type: CADClass
+    caseName: СписокЗадачL
+    position: 450, 270
+    font: DejaVu Sans 9pt
+  - type: CADClass
+    caseName: Laba333
+    position: 300, 150
+    font: DejaVu Sans 9pt

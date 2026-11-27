@@ -1,0 +1,20 @@
+diagramType: CAD
+name: класс
+primitives:
+  - type: CADClass
+    caseName: Задача
+    position: 202, 91
+    size: 100, 66
+    font: DejaVu Sans 9pt
+  - type: CADClass
+    caseName: СписокЗадач
+    position: 464, 110
+    size: 113, 66
+    font: DejaVu Sans 9pt
+  - type: Association
+    startPrimitive: Задача
+    endPrimitive: СписокЗадач
+    points:
+      - 300, 130
+      - 466, 150
+    font: DejaVu Sans 9pt

@@ -1,0 +1,7 @@
+containers:
+  - className: ЗадачаL
+    menuPath: Laba333
+    caption: Задача
+  - className: СписокЗадачL
+    menuPath: Laba333
+    caption: Список задач

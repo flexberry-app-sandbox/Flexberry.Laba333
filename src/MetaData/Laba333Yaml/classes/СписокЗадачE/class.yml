@@ -1,0 +1,8 @@
+name: СписокЗадачE
+stereotype: «editform»
+description: Список задач
+caption: Список задач
+formViews:
+  - name: editview
+    viewName: СписокЗадачE
+    viewClassName: СписокЗадач

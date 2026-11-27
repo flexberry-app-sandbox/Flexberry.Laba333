@@ -1,0 +1,6 @@
+name: СписокЗадачL
+properties:
+  - name: название
+    caption: Название
+  - name: Задача.название
+    caption: Название

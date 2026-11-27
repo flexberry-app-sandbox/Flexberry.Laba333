@@ -1,0 +1,1 @@
+docker-compose -p laba333-java down

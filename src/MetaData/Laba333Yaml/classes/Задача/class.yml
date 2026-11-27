@@ -1,0 +1,20 @@
+name: Задача
+description: Задача
+caption: Задача
+attributes:
+  - name: id
+    type: int
+    order: 1
+    isNullable: true
+  - name: название
+    type: string
+    order: 2
+    isNullable: true
+  - name: описание
+    type: string
+    order: 3
+    isNullable: true
+  - name: статус
+    type: string
+    order: 4
+    isNullable: true

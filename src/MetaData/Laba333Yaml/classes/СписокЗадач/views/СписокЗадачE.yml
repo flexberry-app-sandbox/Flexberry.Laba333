@@ -1,0 +1,12 @@
+name: СписокЗадачE
+properties:
+  - name: название
+    caption: Название
+  - name: Задача
+    caption: Задача
+    isMaster: true
+    lookupType: standard
+    masterPropertyName: название
+  - name: Задача.название
+    caption: Название
+    visible: false

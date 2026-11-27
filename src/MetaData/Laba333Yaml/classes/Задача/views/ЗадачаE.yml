@@ -1,0 +1,10 @@
+name: ЗадачаE
+properties:
+  - name: id
+    caption: Id
+  - name: название
+    caption: Название
+  - name: описание
+    caption: Описание
+  - name: статус
+    caption: Статус

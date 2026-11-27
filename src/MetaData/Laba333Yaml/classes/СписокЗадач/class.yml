@@ -1,0 +1,13 @@
+name: СписокЗадач
+description: Список задач
+caption: Список задач
+attributes:
+  - name: название
+    type: string
+    order: 1
+    isNullable: true
+  - name: воЗадач
+    type: int
+    modifier: Private
+    order: 2
+    isNullable: true
